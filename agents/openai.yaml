@@ -1,0 +1,7 @@
+interface:
+  display_name: "AI 知识产权文档"
+  short_description: "起草和修改 AI 项目的专利申请、技术交底书及软件著作权登记材料"
+  default_prompt: "使用 $ai-copyright，根据当前项目资料起草我需要的知识产权文档。"
+
+policy:
+  allow_implicit_invocation: true

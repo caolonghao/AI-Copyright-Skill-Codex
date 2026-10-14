@@ -1,0 +1,27 @@
+AI Copyright Skill — Codex adaptation
+
+This work is derived from AI-Copyright-Skill by jaccen:
+https://github.com/jaccen/AI-Copyright-Skill
+
+The original skill, domain references, search helpers and disclosure template
+come from that upstream project and its contributors. The original MIT license
+and Copyright (c) 2026 jaccen notice are preserved in LICENSE.
+
+The current Codex adaptation preserves the original business workflow,
+domain references, search helper interfaces and template formatting. It adds
+skill discovery metadata, a Codex execution/path bridge, installation and
+validation documentation, and clears personal document properties.
+These changes do not imply endorsement by the upstream author or OpenAI.
+
+Upstream acknowledges work by:
+Fokkyp/SoftwareCopyright-Skill
+handsomestWei/patent-disclosure-skill
+na57/chinese-copyright-application-skill
+Earl000333/paperforge
+hapi-ds/mPAPA
+IGTA-Tech/provisional-patent-skills
+yycyyv/M-Cube
+RobThePCGuy/Claude-Patent-Creator
+kimlawtech/korean-patent-diagram
+
+This derivative is distributed under the same MIT license.
